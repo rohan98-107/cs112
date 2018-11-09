@@ -1,0 +1,19 @@
+Hello my name is Rohan. 
+I am allergic to dust and people with high pitched voices. 
+I like to eat ribs/smoke weed or both. Weed, Ribs, Video Games = end of story;)
+One of the central tools in complex analysis is the line integral. 
+The line integral around a closed path of a function that is holomorphic everywhere inside the area bounded by the closed path is always zero, which is what the Cauchy integral theorem states. 
+The values of such a holomorphic function inside a disk can be computed by a path integral on the disk's boundary (as shown in Cauchy's integral formula). 
+Path integrals in the complex plane are often used to determine complicated real integrals, and here the theory of residues among others is applicable (see methods of contour integration). 
+A "pole" (or isolated singularity) of a function is a point where the function's value becomes unbounded, or "blows up". 
+If a function has such a pole, then one can compute the function's residue there, which can be used to compute path integrals involving the function; this is the content of the powerful residue theorem. 
+The remarkable behavior of holomorphic functions near essential singularities is described by Picard's Theorem. 
+Functions that have only poles but no essential singularities are called meromorphic. Laurent series are the complex-valued equivalent to Taylor series, but can be used to study the behavior of functions near singularities through infinite sums of more well understood functions, such as polynomials.
+A bounded function that is holomorphic in the entire complex plane must be constant; this is Liouville's theorem. It can be used to provide a natural and short proof for the fundamental theorem of algebra which states that the field of complex numbers is algebraically closed.
+If a function is holomorphic throughout a connected domain then its values are fully determined by its values on any smaller subdomain. 
+The function on the larger domain is said to be analytically continued from its values on the smaller domain. 
+This allows the extension of the definition of functions, such as the Riemann zeta function, which are initially defined in terms of infinite sums that converge only on limited domains to almost the entire complex plane. 
+Sometimes, as in the case of the natural logarithm, it is impossible to analytically continue a holomorphic function to a non-simply connected domain in the complex plane but it is possible to extend it to a holomorphic function on a closely related surface known as a Riemann surface.
+All this refers to complex analysis in one variable. There is also a very rich theory of complex analysis in more than one complex dimension in which the analytic properties such as power series expansion carry over whereas most of the geometric properties of holomorphic functions in one complex dimension (such as conformality) do not carry over. 
+The Riemann mapping theorem about the conformal relationship of certain domains in the complex plane, which may be the most important result in the one-dimensional theory, fails dramatically in higher dimensions.
+

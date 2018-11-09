@@ -1,0 +1,847 @@
+The Project Gutenberg EBook of Symbolic Logic, by Lewis Carroll
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Symbolic Logic
+
+Author: Lewis Carroll
+
+Release Date: May 5, 2009 [EBook #28696]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SYMBOLIC LOGIC ***
+
+
+
+
+Produced by Tony Browne, Geetu Melwani, Greg Weeks, L.
+Lynn Smith and the Online Distributed Proofreading Team
+at http://www.pgdp.net
+
+
+
+
+
+
+                                                                   pg-i
+
+SYMBOLIC LOGIC
+
+By Lewis Carroll
+                                                                   pg-ii
+                                                                   pg-iii
+                                                                   pg-iv
+
+A Syllogism worked out.
+
+That story of yours, about your once meeting the sea-serpent, always
+sets me off yawning;
+
+I never yawn, unless when I'm listening to something totally devoid of
+interest.
+
+The Premisses, separately.
+
+    ·---------------·           ·---------------·
+    |( )    |    ( )|           |       |       |
+    |   ·---|---·   |           |   ·---|---·   |
+    |   |  (#)  |   |           |   |   |( )|   |
+    |---|---|---|---|           |---|---|---|---|
+    |   |   |   |   |           |   |   |( )|   |
+    |   ·---|---·   |           |   ·---|---·   |
+    |       |       |           |       |       |
+    ·---------------·           ·---------------·
+
+The Premisses, combined.
+
+    ·---------------·
+    |( )    |    ( )|
+    |   ·---|---·   |
+    |   |(#)|( )|   |
+    |---|---|---|---|
+    |   |   |( )|   |
+    |   ·---|---·   |
+    |       |       |
+    ·---------------·
+
+The Conclusion.
+
+    ·-------·
+    |(#)|( )|
+    |---|---|
+    |   |   |
+    ·-------·
+
+That story of yours, about your once meeting the sea-serpent, is totally
+devoid of interest.
+
+                                                                   pg-v
+
+
+                           SYMBOLIC LOGIC
+
+
+                              _PART I_
+
+                             ELEMENTARY
+
+
+
+                                 BY
+
+                            LEWIS CARROLL
+
+
+                           SECOND THOUSAND
+
+                           FOURTH EDITION
+
+
+                        _PRICE TWO SHILLINGS_
+
+
+                               London
+                     MACMILLAN AND CO., LIMITED
+                   NEW YORK: THE MACMILLAN COMPANY
+                                1897
+
+                        _All rights reserved_
+
+
+                                                                   pg-vi
+
+                   RICHARD CLAY AND SONS, LIMITED,
+                          LONDON AND BUNGAY
+
+                                                                   pg-vii
+
+
+ADVERTISEMENT.
+
+
+An envelope, containing two blank Diagrams (Biliteral and Triliteral)
+and 9 counters (4 Red and 5 Grey), may be had, from Messrs. Macmillan,
+for 3_d._, by post 4_d._
+
+       *       *       *       *       *
+
+I shall be grateful to any Reader of this book who will point out any
+mistakes or misprints he may happen to notice in it, or any passage
+which he thinks is not clearly expressed.
+
+       *       *       *       *       *
+
+I have a quantity of MS. in hand for Parts II and III, and hope to be
+able----should life, and health, and opportunity, be granted to me, to
+publish them in the course of the next few years. Their contents will be
+as follows:--
+
+_PART II. ADVANCED._
+
+Further investigations in the subjects of Part I. Propositions of other
+forms (such as "Not-all x are y"). Triliteral and Multiliteral
+Propositions (such as "All abc are de"). Hypotheticals. Dilemmas. &c.
+&c.
+
+_Part III. TRANSCENDENTAL._
+
+Analysis of a Proposition into its Elements. Numerical and Geometrical
+Problems. The Theory of Inference. The Construction of Problems. And
+many other _Curiosa Logica_.
+
+                                                                   pg-viii
+
+
+PREFACE TO THE FOURTH EDITION.
+
+
+The chief alterations, since the First Edition, have been made in the
+Chapter on 'Classification' (pp. 2, 3) and the Book on 'Propositions'
+(pp. 10 to 19). The chief additions have been the questions on words and
+phrases, added to the Examination-Papers at p. 94, and the Notes
+inserted at pp. 164, 194.
+
+In Book I, Chapter II, I have adopted a new definition of
+'Classification', which enables me to regard the whole Universe as a
+'Class,' and thus to dispense with the very awkward phrase 'a Set of
+Things.'
+
+In the Chapter on 'Propositions of Existence' I have adopted a new
+'normal form,' in which the Class, whose existence is affirmed or
+denied, is regarded as the _Predicate_, instead of the _Subject_, of the
+Proposition, thus evading a very subtle difficulty which besets the
+other form. These subtle difficulties seem to lie at the root of every
+Tree of Knowledge, and they are _far_ more hopeless to grapple with than
+any that occur in its higher branches. For example, the difficulties of
+the Forty-Seventh Proposition of Euclid are mere child's play compared
+with the mental torture endured in the effort to think out the essential
+nature of a straight Line. And, in the present work, the difficulties of
+the "5 Liars" Problem, at p. 192, are "trifles, light as air," compared
+with the bewildering question "What is a Thing?"
+
+In the Chapter on 'Propositions of Relation' I have inserted a new
+Section, containing the proof that a Proposition, beginning with "All,"
+is a _Double_ Proposition (a fact that is quite independent of the
+arbitrary rule, laid down in the next Section, that such a Proposition
+is to be understood as implying the actual _existence_ of its Subject).
+This proof was given, in the earlier editions, incidentally, in the
+course of the discussion of the Biliteral Diagram: but its _proper_
+place, in this treatise, is where I have now introduced it.
+                                                                   pg-ix
+In the Sorites-Examples, I have made a good many verbal alterations, in
+order to evade a difficulty, which I fear will have perplexed some of
+the Readers of the first three Editions. Some of the Premisses were so
+worded that their Terms were not Specieses of the Univ. named in the
+Dictionary, but of a larger Class, of which the Univ. was only a
+portion. In all such cases, it was intended that the Reader should
+perceive that what was asserted of the larger Class was thereby asserted
+of the Univ., and should ignore, as superfluous, all that it asserted of
+its _other_ portion. Thus, in Ex. 15, the Univ. was stated to be "ducks
+in this village," and the third Premiss was "Mrs. Bond has no gray
+ducks," i.e. "No gray ducks are ducks belonging to Mrs. Bond." Here the
+Terms are _not_ Specieses of the Univ., but of the larger Class "ducks,"
+of which the Univ. is only a portion: and it was intended that the
+Reader should perceive that what is here asserted of "ducks" is thereby
+asserted of "ducks in this village." and should treat this Premiss as if
+it were "Mrs. Bond has no gray ducks in this village," and should
+ignore, as superfluous, what it asserts as to the _other_ portion of the
+Class "ducks," viz. "Mrs. Bond has no gray ducks _out of_ this village".
+
+In the Appendix I have given a new version of the Problem of the "Five
+Liars." My object, in doing so, is to escape the subtle and mysterious
+difficulties which beset all attempts at regarding a Proposition as
+being its own Subject, or a Set of Propositions as being Subjects for
+one another. It is certainly, a most bewildering and unsatisfactory
+theory: one cannot help feeling that there is a great lack of
+_substance_ in all this shadowy host----that, as the procession of
+phantoms glides before us, there is not _one_ that we can pounce upon,
+and say "_Here_ is a Proposition that _must_ be either true or
+false!"----that it is but a Barmecide Feast, to which we have been
+bidden----and that its prototype is to be found in that mythical island,
+whose inhabitants "earned a precarious living by taking in each others'
+washing"! By simply translating "telling 2 Truths" into "taking _both_
+of 2 condiments (salt and mustard)," "telling 2 Lies" into "taking
+_neither_ of them" and "telling a Truth and a Lie (order not specified)"
+into "taking only _one_ condiment (it is not specified _which_)," I have
+escaped all those metaphysical puzzles, and have produced a Problem
+which, when translated into a Set of symbolized Premisses, furnishes the
+very same _Data_ as were furnished by the Problem of the "Five Liars."
+                                                                   pg-x
+The coined words, introduced in previous editions, such as "Eliminands"
+and "Retinends", perhaps hardly need any apology: they were
+indispensable to my system: but the new plural, here used for the first
+time, viz. "Soriteses", will, I fear, be condemned as "bad English",
+unless I say a word in its defence. We have _three_ singular nouns, in
+English, of plural _form_, "series", "species", and "Sorites": in all
+three, the awkwardness, of using the same word for both singular and
+plural, must often have been felt: this has been remedied, in the case
+of "series" by coining the plural "serieses", which has already found
+its way into the dictionaries: so I am no rash innovator, but am merely
+"following suit", in using the new plural "Soriteses".
+
+In conclusion, let me point out that even those, who are obliged to
+study _Formal_ Logic, with a view to being able to answer
+Examination-Papers in that subject, will find the study of _Symbolic_
+Logic most helpful for this purpose, in throwing light upon many of the
+obscurities with which Formal Logic abounds, and in furnishing a
+delightfully easy method of _testing_ the results arrived at by the
+cumbrous processes which Formal Logic enforces upon its votaries.
+
+This is, I believe, the very first attempt (with the exception of my own
+little book, _The Game of Logic_, published in 1886, a very incomplete
+performance) that has been made to _popularise_ this fascinating
+subject. It has cost me _years_ of hard work: but if it should prove, as
+I hope it may, to be of _real_ service to the young, and to be taken up,
+in High Schools and in private families, as a valuable addition to their
+stock of healthful mental recreations, such a result would more than
+repay ten times the labour that I have expended on it.
+
+                                                                L. C.
+
+29, BEDFORD STREET, STRAND.
+    _Christmas, 1896._
+
+                                                                   pg-xi
+
+
+INTRODUCTION.
+
+_TO LEARNERS._
+
+[N.B. Some remarks, addressed to _Teachers_, will be found in the
+Appendix, at p. 165.]
+
+
+The Learner, who wishes to try the question _fairly_, whether this
+little book does, or does not, supply the materials for a most
+interesting mental recreation, is _earnestly_ advised to adopt the
+following Rules:--
+
+(1) Begin at the _beginning_, and do not allow yourself to gratify a
+mere idle curiosity by dipping into the book, here and there. This would
+very likely lead to your throwing it aside, with the remark "This is
+_much_ too hard for me!", and thus losing the chance of adding a very
+_large_ item to your stock of mental delights. This Rule (of not
+_dipping_) is very _desirable_ with _other_ kinds of books----such as
+novels, for instance, where you may easily spoil much of the enjoyment
+you would otherwise get from the story, by dipping into it further on,
+so that what the author meant to be a pleasant surprise comes to you as
+a matter of course. Some people, I know, make a practice of looking into
+Vol. III first, just to see how the story ends: and perhaps it _is_ as
+well just to know that all ends _happily_----that the much-persecuted
+lovers _do_ marry after all, that he is proved to be quite innocent of
+the murder, that the wicked cousin is completely foiled in his plot and
+gets the punishment he deserves, and that the rich uncle in India (_Qu._
+Why in _India_? _Ans._ Because, somehow, uncles never _can_ get rich
+anywhere else) dies at exactly the right moment----before taking the
+trouble to read Vol. I. This, I say, is _just_ permissible with a
+_novel_, where Vol. III has a _meaning_, even for those who have not
+read the earlier part of the story; but, with a _scientific_ book, it is
+sheer insanity: you will find the latter part _hopelessly_
+unintelligible, if you read it before reaching it in regular course.
+                                                                   pg-xii
+(2) Don't begin any fresh Chapter, or Section, until you are certain
+that you _thoroughly_ understand the whole book _up to that point_, and
+that you have worked, correctly, most if not all of the examples which
+have been set. So long as you are conscious that all the land you have
+passed through is absolutely _conquered_, and that you are leaving no
+unsolved difficulties _behind_ you, which will be sure to turn up again
+later on, your triumphal progress will be easy and delightful.
+Otherwise, you will find your state of puzzlement get worse and worse as
+you proceed, till you give up the whole thing in utter disgust.
+
+(3) When you come to any passage you don't understand, _read it again_:
+if you _still_ don't understand it, _read it again_: if you fail, even
+after _three_ readings, very likely your brain is getting a little
+tired. In that case, put the book away, and take to other occupations,
+and next day, when you come to it fresh, you will very likely find that
+it is _quite_ easy.
+
+(4) If possible, find some genial friend, who will read the book along
+with you, and will talk over the difficulties with you. _Talking_ is a
+wonderful smoother-over of difficulties. When _I_ come upon
+anything----in Logic or in any other hard subject----that entirely
+puzzles me, I find it a capital plan to talk it over, _aloud_, even when
+I am all alone. One can explain things so _clearly_ to one's self! And
+then, you know, one is so _patient_ with one's self: one _never_ gets
+irritated at one's own stupidity!
+
+If, dear Reader, you will faithfully observe these Rules, and so give my
+little book a really _fair_ trial, I promise you, most confidently, that
+you will find Symbolic Logic to be one of the most, if not _the_ most,
+fascinating of mental recreations! In this First Part, I have carefully
+avoided all difficulties which seemed to me to be beyond the grasp of an
+intelligent child of (say) twelve or fourteen years of age. I have
+myself taught most of its contents, _vivâ voce_, to _many_ children, and
+have found them take a real intelligent interest in the subject. For
+those, who succeed in mastering Part I, and who begin, like Oliver,
+"asking for more," I hope to provide, in Part II, some _tolerably_ hard
+nuts to crack----nuts that will require all the nut-crackers they happen
+to possess!
+                                                                   pg-xiii
+Mental recreation is a thing that we all of us need for our mental
+health; and you may get much healthy enjoyment, no doubt, from Games,
+such as Back-gammon, Chess, and the new Game "Halma". But, after all,
+when you have made yourself a first-rate player at any one of these
+Games, you have nothing real to _show_ for it, as a _result!_ You
+enjoyed the Game, and the victory, no doubt, _at the time_: but you have
+no _result_ that you can treasure up and get real _good_ out of. And,
+all the while, you have been leaving unexplored a perfect _mine_ of
+wealth. Once master the machinery of Symbolic Logic, and you have a
+mental occupation always at hand, of absorbing interest, and one that
+will be of real _use_ to you in _any_ subject you may take up. It will
+give you clearness of thought----the ability to _see your way_ through a
+puzzle----the habit of arranging your ideas in an orderly and
+get-at-able form----and, more valuable than all, the power to detect
+_fallacies_, and to tear to pieces the flimsy illogical arguments, which
+you will so continually encounter in books, in newspapers, in speeches,
+and even in sermons, and which so easily delude those who have never
+taken the trouble to master this fascinating Art. _Try it._ That is all
+I ask of you!
+
+                                                                L. C.
+
+29, BEDFORD STREET, STRAND.
+    _February 21, 1896._
+
+                                                                   pg-xiv
+                                                                   pg-xv
+
+CONTENTS.
+
+
+=BOOK I.=
+
+=THINGS AND THEIR ATTRIBUTES.=
+
+
+CHAPTER I.
+
+_INTRODUCTORY._
+
+                                                               PAGE
+'=Things='                                                       1
+
+'=Attributes='                                                   "
+
+'=Adjuncts='                                                     "
+
+
+CHAPTER II.
+
+_CLASSIFICATION._
+
+'=Classification='                                               1½
+
+'=Class='                                                        "
+
+'=Peculiar=' Attributes                                          "
+
+'=Genus='                                                        "
+
+'=Species='                                                      "
+
+'=Differentia='                                                  "
+
+'=Real=' and '=Unreal=', or '=Imaginary=', Classes               2
+
+'=Individual='                                                   "
+
+A Class regarded as a single Thing                               2½
+
+                                                                   pg-xvi
+CHAPTER III.
+
+_DIVISION._
+
+
+§ 1.
+
+_Introductory._
+
+'=Division='                                                     3
+
+'=Codivisional=' Classes                                         "
+
+
+§ 2.
+
+_Dichotomy._
+
+'=Dichotomy='                                                    3½
+
+Arbitrary limits of Classes                                      "
+
+Subdivision of Classes                                           4
+
+
+CHAPTER IV.
+
+_NAMES._
+
+'=Name='                                                         4½
+
+'=Real=' and '=Unreal=' Names                                    "
+
+Three ways of expressing a Name                                  "
+
+Two senses in which a plural Name may be used                    5
+
+
+CHAPTER V.
+
+_DEFINITIONS._
+
+'=Definition='                                                   6
+
+Examples worked as models                                        "
+
+                                                                   pg-xvii
+=BOOK II.=
+
+=PROPOSITIONS.=
+
+
+CHAPTER I.
+
+_PROPOSITIONS GENERALLY._
+
+
+§ 1.
+
+_Introductory._
+
+Technical meaning of "some"                                      8
+
+'=Proposition='                                                  "
+
+'=Normal form=' of a Proposition                                 "
+
+'=Subject=', '=Predicate=', and '=Terms='                        9
+
+
+§ 2.
+
+_Normal form of a Proposition._
+
+Its four parts:--
+
+  (1) '=Sign of Quantity='                                       9
+
+  (2) Name of Subject                                            "
+
+  (3) '=Copula='                                                 "
+
+  (4) Name of Predicate                                          "
+
+
+§ 3.
+
+_Various kinds of Propositions._
+
+Three kinds of Propositions:--
+
+  (1) Begins with "Some". Called a '=Particular=' Proposition:
+      also a Proposition '=in I='                               10
+
+  (2) Begins with "No". Called a '=Universal Negative='
+      Proposition: also a Proposition '=in E='                   "
+
+  (3) Begins with "All". Called a '=Universal Affirmative='
+      Proposition: also a Proposition '=in A='                   "
+                                                                   pg-xviii
+A Proposition, whose Subject is an Individual, is to be
+regarded as Universal                                            "
+
+Two kinds of Propositions, 'Propositions of Existence',
+and 'Propositions of Relation'                                   "
+
+
+CHAPTER II.
+
+_PROPOSITIONS OF EXISTENCE._
+
+
+'=Proposition of Existence ='                                   11
+
+
+CHAPTER III.
+
+_PROPOSITIONS OF RELATION._
+
+
+§ 1.
+
+_Introductory._
+
+'=Proposition of Relation='                                     12
+
+'=Universe of Discourse=,' or '=Univ.='                          "
+
+
+§ 2.
+
+_Reduction of a Proposition of Relation
+to Normal form._
+
+Rules                                                           13
+
+Examples worked                                                  "
+
+
+§ 3.
+
+_A Proposition of Relation, beginning with "All",
+is a Double Proposition._
+
+Its equivalence to _two_ Propositions                           17
+
+                                                                   pg-xix
+§ 4.
+
+_What is implied, in a Proposition of Relation,
+as to the Reality of its Terms?_
+
+Propositions beginning with "Some"                              19
+
+       "            "       "No"                                 "
+
+       "            "       "All"                                "
+
+
+§ 5.
+
+_Translation of a Proposition of Relation into
+one or more Propositions of Existence._
+
+Rules                                                           20
+
+Examples worked                                                  "
+
+
+=BOOK III.=
+
+=THE BILITERAL DIAGRAM.=
+
+
+CHAPTER I.
+
+_SYMBOLS AND CELLS._
+
+The Diagram assigned to a certain Set of Things, viz. our
+Univ.                                                           22
+
+Univ. divided into 'the x-Class' and 'the x'-Class'             23
+
+The North and South Halves assigned to these two Classes         "
+
+The x-Class subdivided into 'the xy-Class' and 'the xy'-Class'   "
+
+The North-West and North-East Cells assigned to these
+two Classes                                                      "
+
+The x'-Class similarly divided                                   "
+
+The South-West and South-East Cells similarly assigned           "
+
+The West and East Halves have thus been assigned to
+'the y-Class' and 'the y'-Class'                                24
+
+=Table I.= Attributes of Classes, and Compartments, or
+Cells, assigned to them                                         25
+
+                                                                   pg-xx
+CHAPTER II.
+
+_COUNTERS._
+
+
+Meaning of a Red Counter placed in a Cell                       26
+
+    "       "      "        "   on a Partition                   "
+
+American phrase "=sitting on the fence="                         "
+
+Meaning of a Grey Counter placed in a Cell                       "
+
+
+CHAPTER III.
+
+_REPRESENTATION OF PROPOSITIONS._
+
+
+§ 1.
+
+_Introductory._
+
+The word "Things" to be henceforwards omitted                   27
+
+'=Uniliteral=' Proposition                                       "
+
+'=Biliteral='       do.                                          "
+
+Proposition '=in terms of=' certain Letters                      "
+
+
+§ 2.
+
+_Representation of Propositions of Existence._
+
+The Proposition "Some x exist"                                  28
+
+Three other similar Propositions                                 "
+
+The Proposition "No x exist"                                     "
+
+Three other similar Propositions                                29
+
+The Proposition "Some xy exist"                                  "
+
+Three other similar Propositions                                 "
+
+The Proposition "No xy exist"                                    "
+
+Three other similar Propositions                                 "
+
+The Proposition "No x exist" is _Double_, and is equivalent
+to the two Propositions "No xy exist" and "No xy' exist"        30
+
+                                                                   pg-xxi
+§ 3.
+
+_Representation of Propositions of Relations._
+
+The Proposition "Some x are y"                                   "
+
+Three other similar Propositions                                 "
+
+The Proposition "Some y are x"                                  31
+
+Three other similar Propositions                                 "
+
+Trio of equivalent Propositions, viz.
+"Some xy exist" = "Some x are y" = "Some y are x"                "
+
+'=Converse=' Propositions, and '=Conversion='                    "
+
+Three other similar Trios                                       32
+
+The Proposition "No x are y"                                     "
+
+Three other similar Propositions                                 "
+
+The Proposition "No y are x"                                     "
+
+Three other similar Propositions                                 "
+
+Trio of equivalent Propositions, viz.
+"No xy exist" = "No x are y" = "No y are x"                     33
+
+Three other similar Trios                                        "
+
+The Proposition "All x are y" is _Double_, and is equivalent
+to the two Propositions "Some x are y" and "No x are _y'_"       "
+
+Seven other similar Propositions                                34
+
+=Tables II, III.= Representation of Propositions of
+Existence and Relation                                      34, 35
+
+
+CHAPTER IV.
+
+_INTERPRETATION OF BILITERAL DIAGRAM, WHEN MARKED WITH COUNTERS._
+
+                   ·-------·
+                   |(.)|   |
+Interpretation of  |---|---|                                    36
+                   |   |   |
+                   ·-------·
+
+And of three other similar arrangements                          "
+                                                                   pg-xxii
+                   ·-------·
+                   |( )|   |
+Interpretation of  |---|---|                                     "
+                   |   |   |
+                   ·-------·
+
+And of three other similar arrangements                          "
+
+                   ·-------·
+                   |  (.)  |
+Interpretation of  |---|---|                                    37
+                   |   |   |
+                   ·-------·
+
+And of three other similar arrangements                          "
+
+                   ·-------·
+                   |(.)|(.)|
+Interpretation of  |---|---|                                     "
+                   |   |   |
+                   ·-------·
+
+And of three other similar arrangements                          "
+
+                   ·-------·
+                   |( )|( )|
+Interpretation of  |---|---|                                     "
+                   |   |   |
+                   ·-------·
+
+And of three other similar arrangements                          "
+
+                   ·-------·
+                   |(.)|( )|
+Interpretation of  |---|---|                                     "
+                   |   |   |
+                   ·-------·
+
+And of seven other similar arrangements                         38
+
+
+=BOOK IV.=
+
+=THE TRILITERAL DIAGRAM.=
+
+
+CHAPTER I.
+
+_SYMBOLS AND CELLS._
+
+Change of Biliteral into Triliteral Diagram                     39
+
+The xy-Class subdivided into 'the xym-Class' and
+'the xym'-Class'                                                40
+                                                                   pg-xxiii
+The Inner and Outer Cells of the North-West Quarter
+assigned to these Classes                                        "
+
+The xy'-Class, the x'y-Class, and the
+x'y'-Class similarly subdivided                                  "
+
+The Inner and Outer Cells of the North-East, the South-West,
+and the South-East Quarter similarly assigned                    "
+
+The Inner Square and the Outer Border have thus been assigned
+to 'the m-Class' and 'the _m'_-Class'                            "
+
+Rules for finding readily the Compartment, or Cell,
+assigned to any given Attribute or Attributes                    "
+
+=Table IV.= Attributes of Classes, and Compartments,
+or Cells, assigned to them                                      42
+
+
+CHAPTER II.
+
+_REPRESENTATION OF PROPOSITIONS IN TERMS
+OF x AND m, OR OF y AND m._
+
+
+§ 1.
+
+_Representation of Propositions of Existence in terms
+of x and m, or of y and m._
+
+The Proposition "Some xm exist"                                 43
+
+Seven other similar Propositions                                 "
+
+The Proposition "No xm exist"                                   44
+
+Seven other similar Propositions                                 "
+
+
+§ 2.
+
+_Representation of Propositions of Relation in terms
+of x and m, or of y and m._
+
+The Pair of Converse Propositions
+"Some x are m" = "Some m are x"                                  "
+
+Seven other similar Pairs                                        "
+
+The Pair of Converse Propositions
+"No x are m" = "No m are x"                                      "
+
+Seven other similar Pairs                                        "
+
+The Proposition "All x are m"                                   45
+
+Fifteen other similar Propositions                               "
+
+=Tables V, VI, VII, VIII.= Representations of
+Propositions in terms of x and m, or of
+y and m                                                   46 to 49
+
+                                                                   pg-xxiv
+CHAPTER III.

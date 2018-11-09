@@ -1,0 +1,398 @@
+Hello my name is Shar. 
+I don't like ribs. 
+I'm a vegetarian. 
+I won an olympic medal in playing video games while I was high on weed. 
+ROUGH AND TUMBLE ENGINEERING
+
+By James H. Maggard
+
+
+
+PREFACE_______
+
+In placing this book before the public the author wishes it understood
+that it is not his intention to produce a scientific work on
+engineering.  Such a book would be valuable only to engineers of large
+stationary engines.  In a nice engine room nice theories and scientific
+calculations are practical.  This book is intended for engineers of farm
+and traction engines, "rough and tumble engineers," who have everything
+in their favor today, and tomorrow are in mud holes, who with the same
+engine do eight horse work one day and sixteen horse work the next day.
+Reader, the author has had all these experiences and you will have them,
+but don't get discouraged. You can get through them to your entire
+satisfaction.
+
+Don't conclude that all you are to do is to read this book. It will not
+make an engineer of you.  But read it carefully, use good judgment and
+common sense, do as it tells you, and my word for it, in one month, you,
+for all practical purposes, will be a better engineer than four-fifths
+of the so-called engineers today, who think what they don't know would
+not make much of a book. Don't deceive yourself with the idea that what
+you get out of this will be merely "book learning." What is said in this
+will be plain, unvarnished, practical facts.  It is not the author's
+intention to use any scientific terms, but  plain, everyday field terms.
+There will be a number of things you will not find in this book, but
+nothing will be left out that would be of practical value to you. You
+will not find any geometrical figures made up of circles, curves,
+angles, letters and figures in a vain effort to make you understand the
+principle of an eccentric.  While it is all very nice to know these
+things, it is not necessary, and the putting of them in this book would
+defeat the very object for which it was intended.  Be content with being
+a good, practical, everyday engineer, and all these things will come in
+time.
+
+
+INTRODUCTORY ________
+
+
+If you have not read the preface on the preceding pages, turn back and
+read it.  You will see that we have stated there that we will use no
+scientific terms, but plain every day talk. It is presumed by us that
+there will be more young men, wishing to become good engineers, read
+this work than old engineers. We will, therefore, be all the more plain
+and say as little as possible that will tend to confuse the learner, and
+what we do say will be said in the same language that we would use if we
+were in the field, instructing you how to handle your engine. So if the
+more experienced engineer thinks we might have gone further in some
+certain points, he will please remember that by so doing we might
+confuse the less experienced, and thereby cover up the very point we
+tried to make. And yet it is not to be supposed that we will endeavor to
+make an engineer out of a man who never saw an engine. It is, therefore,
+not necessary to tell the learner how an engine is made or what it looks
+like.  We are not trying to teach you how to build an engine, but rather
+how to handle one after it is built; how to know when it is in proper
+shape and how to let it alone when it is in shape. We will suppose that
+you already know as much as an ordinary water boy, and just here we will
+say that we have seen water haulers that were more capable of handling
+the engine for which they were hauling water, than the engineer, and the
+engineer would not have made a good water boy, for the reason that he
+was lazy, and we want the reader to stick a pin here, and if he has any
+symptoms of that complaint, don't undertake to run an engine, for a lazy
+engineer will spoil a good engine, if by no other means than getting it
+in the habit of loafing.
+
+
+PART FIRST ______
+
+In order to get the learner started, it is reasonable to suppose that
+the engine he is to run is in good running order.  It would not be fair
+to put the green boy onto an old dilapidated, worn-out engine, for he
+might have to learn too fast, in order to get the engine running in good
+shape.  He might have to learn so fast that he would get the big head,
+or have no head at all, by the time he got through with it.  And I don't
+know but that a boy without a head is about as good as an engineer with
+the big head.  We will, therefore, suppose that his engine is in good
+running order. By good running order we mean that it is all there, and
+in its proper place, and that with from ten to twenty pounds of steam,
+the engine will start off at a good lively pace.  And let us say here,
+(remember that we are talking of the lone engine, no load considered,)
+that if you are starting a new engine and it starts off nice and easy
+with twenty pounds, you can make up your mind that you have an engine
+that is going to be nice to handle and give you but little, if any,
+trouble.  But if it should require fifty or sixty pounds to start it,
+you want to keep your eyes open, something is tight; but don't take it
+to pieces.  You might get more pieces than you would know what to do
+with.  Oil the bearings freely and put your engine in motion and run it
+carefully for a while and see if you don't find something getting warm.
+If you do, stop and loosen up a very little and start it up again.  If
+it still heats, loosen about the same as before, and you will find that
+it will soon be all right. But remember to loosen but very little at a
+time, for a box or journal will heat from being too loose as quickly as
+from being too tight, and you will make trouble for yourself, for,
+inexperienced as you are, you don't know whether it is too loose or too
+tight, and if you have found a warm box, don't let that box take all of
+your attention, but keep an eye on all other bearings.  Remember that we
+are not threshing yet, we just run the engine out of shed, (and for the
+sake of the engine and the young engineer, we hope that it did not stand
+out all winter) and are getting in shape for a good fall's run.  In the
+meantime, to find out if anything heats, you can try your pumps, but to
+help you along, we will suppose that your pump, or injector, as the case
+may be, works all right.
+
+Now suppose we go back where we started this new engine that was slow to
+start with less than fifty pounds, and when it did start, we watched it
+carefully and found after oiling thoroughly that nothing heated as far
+as we could see.  So we conclude that the trouble must be in the
+cylinder.  Well, what next? Must we take off the cylinder head and look
+for the trouble? Oh, no, not by any means.  The trouble is not serious.
+The rings are a little tight, which is no serious fault.  Keep them well
+oiled and in a day or two ten pounds will start the empty engine in good
+shape.  If you are starting an engine that has been run, the above
+instructions are not necessary, but if it is a new one these precautions
+are not out of the way, and a great deal of the trouble caused in
+starting a new engine, can be avoided if these precautions are observed.
+
+It is not uncommon for a hot box to be caused from a coal cinder
+dropping in the box in shipment, and before starting a new engine, clean
+out the boxes thoroughly, which can be done by taking off the caps, or
+top box, and wiping the journal clean with an oily rag or waste, and
+every engineer should supply himself with this very necessary article,
+especially if he is the kind of an engineer who intends to keep his
+engine clean.
+
+The engine should be run slowly and carefully for a while, to give a
+chance to find out if anything is going to heat, before putting on any
+load.
+
+Now if your engine is all right, you can run the pressure up to the
+point of blowing off, which is from one hundred to one hundred and ten
+pounds.  Most new pop valves, or safety valves, are set at this
+pressure.  I would advise you to fire to this point, to see that your
+safety is all right.  It is not uncommon for a new pop to stick, and as
+the steam runs up it is well to try it, by pulling the relief lever. If,
+on letting it go, it stops the escaping, steam at once, it is all right.
+If, however, the steam continues to escape, the valve sticks in the
+chamber. Usually a slight tap with a wrench or a hammer will stop it at
+once, but never get excited over escaping steam, and perhaps here is as
+good a place as any to say to you, don't get excited over anything.  As
+long as you have plenty of water, and know you have, there is no danger.
+
+The young engineer will most likely wonder why we have not said
+something about the danger of explosions.  We did not start to write
+about explosions.  That is just what we don't want to have anything to
+do with.  But, you say, is there no danger of a boiler exploding?  Yes.
+But if you wish to explode your boiler you must treat it very
+differently from the way we advise.  We have just stated, that as long
+as you have plenty of water, and know you have, there is no danger.
+Well, how are you to know?  This is not a difficult thing to know,
+provided your boiler is fitted with the proper appliances, and all
+builders of any prominence, at this date, fit their boilers with from
+two to four try-cocks, and a glass gauge.  The boiler is tapped in from
+two to four places for the try-cocks, the location of the cocks ranging
+from a line on a level with the crown sheet, or top of fire box, to
+eight inches above, depending somewhat on the amount of water space
+above the crown sheet, as this space differs very materially in
+different makes of the same sized boiler.  The boiler is also tapped on
+or near the level of crown sheet, to receive the lower water glass cock
+and directly above this, for the top cock.  The space between this shows
+the safe variation of the water.  Don't let the water get above the top
+of the glass, for if you are running your engine at hard work, you may
+knock out a cylinder head, and don't let it get below the lower gauge,
+or you may get your head knocked off.
+
+Now the glass gauge is put on for your convenience, as you can determine
+the location of the water as correctly by this as if you are looking
+directly into the boiler, provided, the glass gauge is in perfect order.
+But as there are a number of ways in which it may become disarranged or
+unreliable, we want to impress on your mind that you, must not depend on
+it entirely. We will give these causes further on.  You are not only
+provided with the glass gauge, but with the try-cocks.  These cocks are
+located so that the upper and lower cock is on or near the level with
+the lower and upper end of the glass gauge.  With another try-cock about
+on a level with the center of glass gauge, or in other words, if the
+water stands about the center of glass it will at the same time show at
+the cock when tried.  Now we will suppose that your glass gauge is in
+perfect condition and the water shows two inches in the glass.  You now
+try the lower cock, and find plenty of water; you will then try the next
+upper cock and get steam.  Now as the lower cock is located below the
+water line, shown by the glass, and the second cock above this line, you
+not only see the water line by the glass, but you have a way of proving
+it.  Should the water be within two inches of the top of glass you again
+have the line between two cocks and can also prove it.  Now you can know
+for a certainty, where the water stands in the boiler, and we repeat
+when you know this, there is nothing to fear from this source, and as a
+properly constructed boiler never explodes, except from low water or
+high pressure, and as we have already cautioned you about your safety
+valve, you have nothing to fear, provided you have made up your mind to
+follow these instructions, and unless you can do this, let your job to
+one who can.  Well, you say you will do as we have directed, we will
+then go back to the gauges.  Don't depend on your glass gauge alone, for
+several reasons.  One is, if you depend on the glass entirely, the
+try-cocks become limed up and are useless, solely because they are
+not used.
+
+Some time ago the writer was standing near a traction engine, when the
+engineer, (I guess I must call him that) asked me to stay with the
+engine a few minutes.  I consented.  After he had been gone a short time
+I thought I would look after the water.  It showed about two inches in
+the glass, which was all right, but as I have advised you, I proposed to
+know that it was there and thought I would prove it by trying the cocks.
+But on attempting to try them I found them limed up solid.  Had I been
+hunting an engineer, that fellow would not have secured the job.
+Suppose that before I had looked at the glass, it had bursted, which it
+is liable to do any time.  I would have shut the gauge cocks off as soon
+as possible to stop the escaping steam and water.  Then I would have
+tried the cocks to find where the water was in the boiler.  I would have
+been in a bad boat, not knowing whether I had water or not.  Shortly
+after this the fellow that was helping the engine run (I guess I will
+put it that way) came back.  I asked him what the trouble was with his
+try cocks.  He said, "Oh, I don't bother with them." I asked him what he
+would do if his glass should break.  His reply was, "Oh, that won't
+break." Now just such an engineer as that spoils many a good engine, and
+then blames it on the manufacturer.  Now this is one good reason why you
+are not to depend entirely on the glass gauge.  Another equally as good
+reason is, that your glass may fool you, for you see the try-cocks may
+lime up, so may your glass gauge cocks, but you say you use them.  You
+use them by looking at them.  You are not letting the steam or water
+escape from them every few minutes and thereby cutting the lime away, as
+is the case with try-cocks. Now you want to know how you are to keep
+them open.  Well, that is easy.  Shut off the top gauge and open the
+drain cock at bottom of gauge cock.  This allows the water and steam to
+flow out of the lower cock.  Then after allowing it to escape a few
+seconds, shut off the lower gauge and open the top one, and allow it to
+blow about the same time.  Then shut the drain cock and open both gauge
+cocks and you will see the water seek its level, and you can rest
+assured that it is reliable.  This little operation I want you to
+perform every day you run an engine.  It will prevent you from thinking
+you have water.  I don't want you to think so.  I intend that you shall
+know it.  You remember we said, if you know you have water, you are
+safe, and every one around you will be safe.
+
+Now here is something I want you to remember.  Never be guilty of going
+to your engine in the morning and building a fire simply because you see
+water in the glass.  We could give you the names of a score of men who
+have ruined their engines by doing this very thing.  You, as a matter of
+course, want to know why this can do any harm.  It could not, if the
+water in the boiler was as high as it shows in the glass, but it is not
+always there, and that is what causes the trouble.  Well, if it showed
+in the glass, why was it not there?  You probably have lived long enough
+in the world to know that there are a great many boys in it, and it
+seems to be second nature with them to turn everything on an engine that
+is possible to turn.  All glass gauge cocks are fitted with a small hand
+wheel.  The small boy sees this about the first thing and he begins to
+turn it, and he generally turns as long as it turns easy, and when it
+stops he will try the other one, and when it stops he has done the
+mischief, by shutting the water off from the boiler, and all the water
+that was in the glass remains there.  You may have stopped work with an
+ordinary gauge of water, and as water expands when heated, it also
+contracts when it becomes cool.  Water will also simmer away, if there
+is any fire left in the fire box, especially if there should be any vent
+or leak in the boiler, and the water may by morning have dropped to as
+much as an inch below the crown sheet.  You approach the engine and on
+looking at the glass, see two or three inches of water.  Should you
+start a fire without investigating any further, you will have done the
+damage, while if you try the gauge cocks first you will discover that
+some one has tampered with the engine.  The boy did the mischief through
+no malicious motives, but we regret to say that there are people in this
+world who are mean enough to do this very thing, and not stop at what
+the boy did unconsciously, but after shutting the water in the gauge for
+the purpose of deceiving you, they then go to the blow-off cock and let
+enough water out to insure a dry crown sheet.  While I detest a human
+being guilty of such a dastardly trick, I have no sympathy to waste on
+an engineer who can be caught in this way.  So, if by this time you have
+made up your mind never to build a fire until you know where the water
+is, you will never be fooled and will never have to explain an accident
+by saying, "I thought I had plenty of water." You may be fooled in
+another way.  You are aware that when a boiler is fired up or in other
+words has a steam pressure on, the air is excluded, so when the boiler
+cools down, the steam condenses and becomes water again, hence the space
+which was occupied by steam now when cold becomes a vacuum.
+
+Now should your boiler be in perfect shape, we mean perfectly tight,
+your throttle equally as tight, your pump or injector in perfect
+condition and you were to' leave your engine with the hose in the tank,
+and the supply globe to your pump open, you will find on returning to
+your engine in the morning that the boiler will be nearly if not quite
+full of water.  I have heard engineers say that someone had been
+tampering with their engines and storm around about it, while the facts
+were that the supply being open the water simply flowed in from
+atmospheric pressure, in order to fill the space made vacant by the
+condensed steam.  You will find further on that all check valves are
+arranged to prevent any flowing out from the boiler, but nothing to
+prevent water flowing in.  Such an occurrence will do no harm but the
+knowing how it was done may prevent your giving yourself away.  A good
+authority on steam boilers, says: "All explosions come either from poor
+material, poor workmanship, too high pressure, or a too low gauge of
+water." Now to protect yourself from the first two causes, buy your
+engine from some factory having a reputation for doing good work and for
+using good material.  The last two causes depend very much on yourself,
+if you are running your own engine.  If not, then see that you have an
+engineer who knows when his safety valve is in good shape and who knows
+when he has plenty of water, or knows enough to pull his fire, when for
+some reason, the water should become low.  If poor material and poor
+workmanship were unknown and carelessness in engineers were unknown,
+such a thing as a boiler explosion would also be unknown.
+
+You no doubt have made up your mind by this time that I have no use for
+a careless engineer, and let me add right here, that if you are inclined
+to be careless, forgetful,(they both mean about the same thing,) you are
+a mighty poor risk for an insurance company, but on the other hand if
+you are careful and attentive to business, you are as safe a risk as any
+one, and your success and the durability and life of your engine depends
+entirely upon you, and it is not worth your while to try to shift the
+responsibility of an accident to your engine upon some one else.
+
+If you should go away from your engine and leave it with the water boy,
+or anyone who might be handy, or leave it alone, as is often done, and
+something goes wrong with the engine, you are at fault.  You had no
+business to leave it, but you say you had to go to the separator and
+help fix something there.  At the separator is not your place.  It is
+not our intention to tell you how to run both ends of an outfit.  We
+could not tell you if we wanted to.  If the men at the separator can't
+handle it, get some one or get your boss to get some one who can.  Your
+place is at the engine.  If your engine is running nicely, there is all
+the more reason why you should stay by it, as that is the way to keep it
+running nicely. I have seen twenty dollars damage done to the separator
+and two days time lost all because the engineer was as near the
+separator as he was to the engine when a root went into the cylinder.
+Stay with your engine, and if anything goes wrong at the separator, you
+are ready to stop and stop quickly, and if you are signalled to start
+you are ready to start at once You are therefore making time for your
+employer or for yourself and to make time while running a threshing
+outfit, means to make money.  There are engineers running engines today
+who waste time enough every day to pay their wages.
+
+There is one thing that may be a little difficult to learn, and that is
+to let your engine alone when it is all right.  I once gave a young
+fellow a recommendation to a farmer who wanted an engineer, and
+afterward noticed that when I happened around he immediately picked up a
+wrench and commenced to loosen up first one thing and then another.  If
+that engineer ever loses that recommendation he will be out of a job, if
+his getting one depends on my giving him another.  I wish to say to the
+learner that that is not the way to run an engine.  Whenever I happen to
+go around an engine, (and I never lose an opportunity) and see an
+engineer watching his engine, (now don't understand me to mean standing
+and gazing at it,) I conclude that he knows his business.  What I mean
+by watching an engine is, every few minutes let your eye wander over the
+engine and you will be surprised to see how quickly you will detect
+anything out of place.  So when I see an engineer watching his engine
+closely while running, I am most certain to see another commendable
+feature in a good engineer, and that is, when he stops his engine he
+will pick up a greasy rag and go over his engine carefully, wiping every
+working part, watching or looking carefully at every point that he
+touches.  If a nut is working loose he finds it, if a bearing is hot he
+finds it.  If any part of his engine has been cutting, he finds it.  He
+picked up, a greasy rag instead of a wrench, for the engineer that
+understands his business and attends to it never picks up a wrench
+unless he has something to do with it.  The good engineer took a greasy
+rag and while he was using it to clean his engine, he was at the same
+time carefully examining every part.  His main object was to see that
+everything was all right.  If he had found a nut loose or any part out
+of place, then he would have taken his wrench, for he had use for it.
+
+Now what a contrast there is between this engineer and a poor one, and
+unfortunately there are hundreds of poor engineers running portable and
+traction engines.  You will find a poor engineer very willing to talk.
+This is bad habit number one. He cannot talk and have his mind on his
+work.  Beginners must not forget this.  When I tell you how to fire an
+engine you will understand how important it is, The poor engineer is
+very apt to ask an outsider to stay at his engine while he goes to the
+separator to talk.  This is bad habit number two.  Even if the outsider
+is a good engineer, he does not know whether the pump is throwing more
+water than is being used or whether it is throwing less.  He can only
+ascertain this by watching the column of water in the glass, and he
+hardly knows whether to throw in fuel or not.  He don't want the steam
+to go down and he don't know at what pressure the pop valve will blow
+off.  There may be a box or journal that has been giving the engineer
+trouble and the outsider knows nothing about it.  There are a dozen
+other good reasons why bad habit number two is very bad.
+
+If you will watch the poor engineer when he stops his engine, he will,
+if he does anything, pick up a wrench, go around to the wrist pin,
+strike the key a little crack, draw a nut or peck away at something
+else, and can't see anything for grease and dirt. When he starts up, ten
+to one the wrist pin heats and he stops and loosens it up and then it
+knocks.  Now if he had picked up a rag instead of a wrench, he would not
+have hit that key but he would have run his hand over it and if he had
+found it all right, he would have let it alone, and would have gone over
+the balance of the engine and when he started up again his engine would
+have looked better for the wiping it got and would have run just as well
+as before he stopped it.  Now you will understand why a good engineer
+wears out more rags than wrenches, while a poor one wears out more
+wrenches than rags.  Never bother an engine until it bothers you.  If
+you do, you will make lots of grief for yourself.
+
+I have mentioned the bad habits of a poor engineer so that you may avoid
+them.  If you carefully avoid all the bad habits connected with the
+running of an engine, you will be certain to fall into good habits and
+will become a good engineer.
